@@ -2,11 +2,12 @@
   "name": "my-vanilla-vite-app",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --port 8080",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview --port 8080"
   },
   "devDependencies": {
-    "vite": "^2.1.5"
+    "vite": "^2.1.5",
+    "vite-plugin-pwa": "0.7.1"
   }
 }
