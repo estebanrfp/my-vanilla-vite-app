@@ -7,7 +7,7 @@
     "serve": "vite preview --port 8080"
   },
   "devDependencies": {
-    "vite": "^2.4.2",
+    "vite": "^2.4.3",
     "vite-plugin-pwa": "0.8.1"
   }
 }
