@@ -1,6 +1,6 @@
 import { registerSW } from 'virtual:pwa-register'
 
-import './lib/index'
+import './lib/index.js'
 import './style.css'
 
 document.querySelector('#app').innerHTML = `
