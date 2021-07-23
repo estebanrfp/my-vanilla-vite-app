@@ -1,0 +1,11 @@
+.site-content {
+  background: red !important;
+  font-size: .2rem;
+}
+
+input[type="text"] {
+  border-radius: 1px;
+}
+
+:fullscreen {
+}
